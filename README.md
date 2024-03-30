@@ -1,6 +1,6 @@
 # Airbnb-Data-analysis
-#Introduction:
-###Airbnb is a global online platform that enables people to manage and book temporary accommodations. Individuals can rent out or lease apartments or rooms in others' private homes for short periods, such as weekend getaways or vacations. Users can search for specific accommodations based on location and desired dates, and then communicate with property owners to book the stay
+# Introduction:
+### Airbnb is a global online platform that enables people to manage and book temporary accommodations. Individuals can rent out or lease apartments or rooms in others' private homes for short periods, such as weekend getaways or vacations. Users can search for specific accommodations based on location and desired dates, and then communicate with property owners to book the stay
 
 
 # Conclusion
