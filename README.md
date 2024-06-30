@@ -3,18 +3,29 @@
 ### Airbnb is a global online platform that enables people to manage and book temporary accommodations. Individuals can rent out or lease apartments or rooms in others' private homes for short periods, such as weekend getaways or vacations. Users can search for specific accommodations based on location and desired dates, and then communicate with property owners to book the stay
 
 
-# Conclusion
-#### The dataset contains information about rental listings, including attributes such as listing ID, host details, location, property type, room type, accommodation details, price, and review scores.
+# Airbnb Data Analysis
 
-#### There was some missing variable so we handled them by dropping these rows
+## Overview
+This repository contains an analysis of Airbnb data, including trends in pricing, occupancy rates, and review scores. The analysis aims to provide recommendations on room type pricing strategies to optimize rental performance.
 
-### Some insights about the data:
-#### All room types have similar reviews
-#### The order from the highest avg price to the lowest based on the room type is as follows: Hotel room, entire place, private room, shared room. which is logical
-#### we calculated the price per accommodate for each listing
-#### we calculated the top reviewd listings
-#### we calculated the occupancy rate
+## Files
+- `Airbnb_analysis.ipynb`: Jupyter notebook containing the data analysis and visualizations.
 
-#### we saw how some relations between variables like:
-#### The average price related to how many accommodate in the listing
-#### average rating and price for every room type
+## How to Use
+1. Clone the repository.
+2. Open the `Airbnb_analysis.ipynb` file in Jupyter Notebook or JupyterLab.
+3. Run the cells to reproduce the analysis.
+
+## Requirements
+- Python 3.x
+- Jupyter Notebook
+- pandas
+- numpy
+- matplotlib
+- seaborn
+
+## Author
+Abdulrahman Azhar
+
+## Contact
+If you have any questions, feel free to reach out to me at [Abdulrahman-azhar@hotmail.com](mailto:Abdulrahman-azhar@hotmail.com).
